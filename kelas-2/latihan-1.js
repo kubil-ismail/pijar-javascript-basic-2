@@ -1,4 +1,5 @@
 // ES 5 DECLARATION
+// MASIH DI KERJAIN YAK
 
 // hoisted = mengangkat
 doStuff(); // execute
