@@ -6,7 +6,7 @@ function myDisplayer(result) {
   console.log("modulus", modulus);
 }
 
-function myKalkulator(num1, num2, myCallback) {
+function myCalkulator(num1, num2, myCallback) {
   let sum = num1 + num2;
 
   // realita
@@ -14,4 +14,4 @@ function myKalkulator(num1, num2, myCallback) {
 }
 
 // penjumlahan
-myKalkulator(10, 3, myDisplayer);
+myCalkulator(10, 3, myDisplayer);
